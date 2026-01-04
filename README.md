@@ -44,12 +44,6 @@ Atualmente estou aprofundando meus estudos em arquitetura de software e novas li
 
 
 
-### 🏆 Projetos em Destaque
-
-| Projeto | Stack Principal |
-| :--- | :--- |
-| **Portfólio Pessoal** | ![HTML](https://img.shields.io/badge/-HTML-orange) ![CSS](https://img.shields.io/badge/-CSS-blue) |
-| **Backend Java** | ![Java](https://img.shields.io/badge/-Java-red) ![Spring](https://img.shields.io/badge/-Spring-green) |
 
 <br>
 <div align="center">
